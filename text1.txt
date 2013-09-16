@@ -1,3 +1,5 @@
 Playing with git text file. This is something I want to track.
 
 What happens if I make some changes, like adding this line.
+
+And if I add another line here, will it reappear in the Git window? (yes, with an M icon under Status). which apparently stands for "modified."
